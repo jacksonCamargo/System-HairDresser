@@ -1,24 +1,24 @@
 const nome = document.querySelector('input[name="nome"]');
-const crm = document.querySelector('input[name="crm"]');
 const especialidade = document.querySelector('input[name="especialidade"]');
 const email = document.querySelector('input[name="email"]');
 const btn = document.querySelector('#btn');
+// const crm = document.querySelector('input[name="crm"]');
 
 btn.addEventListener('click', () => {
-	let novomedico = new NovoMedico(
+	let novoCabelereiro = new NovoCabelereiro(
 		nome.value,
 		email.value,
-		crm.value,
-		especialidade.value
+		// crm.value,
+		// especialidade.value
 	);
 
-	let verifica = novomedico.newMedico();
+	let verifica = novoCabelereiro.newCabelereiro();
 
 	if (verifica.status == 'success') {
 		nome.value = '';
 		email.value = '';
-		crm.value = '';
-		especialidade.value = '';
+		// crm.value = '';
+		// especialidade.value = '';
 
 		alert(verifica.message);
 
