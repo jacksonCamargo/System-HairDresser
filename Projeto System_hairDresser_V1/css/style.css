@@ -74,7 +74,7 @@ ul {
 
 ul.header-w3_pvt li span.fa {
     margin-right: 5px;
-    color: #00bcd5;
+    color: #111111;
     font-size: 15px;
 }
 
@@ -102,7 +102,7 @@ header {
     position: absolute;
     z-index: 9;
     width: 100%;
-    background: #00bcd5;
+    background: #111111;
 }
 
 .toggle,
@@ -279,7 +279,7 @@ li > a:only-child:after { content: ''; }
 		float: right;
 		background-color: #fff;
 		color: #009688;
-		color: #00bcd5;
+		color: #111111;
 		letter-spacing: 1px;
 	}
 	.menu .toggle {
@@ -390,7 +390,7 @@ li > a:only-child:after { content: ''; }
     border-radius: 5px;
     border: 2px solid #fff;
     padding: 0.4em 1.7em;
-    color: #00bcd5;
+    color: #111111;
     font-weight: 500;
     letter-spacing: 0px;
 	text-transform: capitalize;
@@ -437,7 +437,7 @@ h3.b-w3ltxt {
 }
 
 .btn-banner,.btn-banner1 {
-    background: #00bcd5;
+    background: #111111;
     border-radius: 0px;
     color: #fff;
     font-size: 16px;
@@ -446,7 +446,7 @@ h3.b-w3ltxt {
      display: inline-block;
 }
 .btn-banner1 {
-    background: #ed948e;
+    background: #DAA520;
 }
 
 .btn-banner:hover,.btn-banner1:hover{
@@ -528,7 +528,7 @@ h3.b-w3ltxt {
     -moz-transition: all 1s;
     -webkit-transition: all 1s;
     -o-transition: all 1s;
-    background: #00bcd5;
+    background: #111111;
 }
 .about-box .icon span.fa{
     font-size: 2em;
@@ -619,7 +619,7 @@ h3.b-w3ltxt {
 /*-- feedback --*/
 .feedback-top {
     position: relative;
-    background: #00bcd5;
+    background: #111111;
 }
 .feedback-top span.fa{
     color: #fff;
@@ -632,7 +632,7 @@ h3.b-w3ltxt {
 	left: 14%;
 	width: 0;
 	height: 0;
-	border-top: 15px solid #00bcd5;
+	border-top: 15px solid #111111;
 	border-right: 4px solid transparent;
 	border-left: 12px solid transparent;
 	transform: rotate(0deg);
@@ -818,7 +818,7 @@ h3.heading:after,h2.heading:after {
 /*-- modal Call Us --*/
 
 button.btn.btn-primary.submit {
-    background: #00bcd5;
+    background: #111111;
     border: none;
     letter-spacing: 1px;
     border-radius: 0;
@@ -831,7 +831,7 @@ button.btn.btn-primary.submit {
 /*-- appointment --*/
 
 .appointment{
-	background: #00bcd5;
+	background: #111111;
 }
 .appointment h4  {
     font-size: 40px;
@@ -900,7 +900,7 @@ footer,.copyright{
     color: #666;
 }
 .footer-grids h5 span{
-    color: #00bcd5;
+    color: #111111;
 }
 .footer-grids p,.footer-grids p a,.copyright p ,.copyright p  a{
     font-size: 15px;
@@ -933,7 +933,7 @@ footer,.copyright{
     outline: none;
 }
 .footer-grids button.btn {
-    background: #00bcd5;
+    background: #111111;
     color: #fff;
     font-size: 14px;
     width: 33% !important;
@@ -954,10 +954,10 @@ footer,.copyright{
 
 /*-- About page --*/
 .innerpage-banner {
-    background: url(../images/bg-medicos.jpg) no-repeat;
+    background: url(../images/cabelereiro.png) no-repeat;
     background-position: 0px -150px;
     background-size: cover;
-    min-height: 400px;
+    min-height: 300px;
 }
 
 .inner-page-layer {
@@ -1274,7 +1274,7 @@ ul.blog-icons a {
 	color: #8c9398;
 }
 ul.blog-icons i {
-    color: #00bcd5;
+    color: #111111;
     font-size: 1em;
     margin-bottom: 0;
 }
@@ -1314,7 +1314,7 @@ ul.blog-icons i {
     border-radius: 0px;
 }
 .tech-btm input[type="submit"] {
-    background: #00bcd5;
+    background: #111111;
     font-weight: 500;
     outline: none;
     border: none;
@@ -1520,7 +1520,7 @@ ul.list-group.single {
 
 ul.list-group.single .badge-primary {
     color: #fff;
-    background-color: #00bcd5;
+    background-color: #111111;
 }
 h5.mt-0 {
     color: #343a40;
@@ -1589,7 +1589,7 @@ h5.mt-0 {
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
     cursor: pointer;
-    background: #00bcd5;
+    background: #111111;
     border-radius: 0px;
     color: #fff;
     font-size: 17px;
@@ -1598,7 +1598,7 @@ h5.mt-0 {
     display: inline-block;
 }
 .read a {
-    background: #00bcd5;
+    background: #111111;
     border-radius: 0px;
     color: #fff;
     font-size: 15px;
@@ -1865,7 +1865,7 @@ h5.mt-0 {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
     transition: 0.5s all;
-     background: #00bcd5;
+     background: #111111;
     color: #fff;
     font-size: 17px;
     letter-spacing: 1px;
@@ -1884,14 +1884,14 @@ h4.heading-con-w3ls {
     letter-spacing: .5px;
 }
 .contact-info p  i{
-    color: #00bcd5;
+    color: #111111;
 }
 .contact-info p a {
     font-size: 17px;
     color: #888;
 }
 .contact-info p span.fa {
-    color: #00bcd5;
+    color: #111111;
 }
 /*-- map --*/
 
@@ -2026,7 +2026,7 @@ a.move-top span{
 }
 @media(max-width:991px) {
     .navbar-toggler {
-		background-color: #00bcd5;
+		background-color: #111111;
 		border: 1px solid transparent;
 		border-radius: 0rem;
 	}

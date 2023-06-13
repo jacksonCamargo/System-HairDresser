@@ -1,7 +1,7 @@
 const nome = document.querySelector('input[name="nome"]');
 const email = document.querySelector('input[name="email"]');
 const telefone = document.querySelector('input[name="telefone"]');
-const cpf = document.querySelector('input[name="cpf"]');
+// const cpf = document.querySelector('input[name="cpf"]');
 const btn = document.querySelector('#btn');
 
 btn.addEventListener('click', () => {
@@ -9,7 +9,7 @@ btn.addEventListener('click', () => {
 		nome.value,
 		email.value,
 		telefone.value,
-		cpf.value
+		//cpf.value
 	);
 
 	let verifica = novocliente.newCliente();
@@ -18,7 +18,7 @@ btn.addEventListener('click', () => {
 		nome.value = '';
 		email.value = '';
 		telefone.value = '';
-		cpf.value = '';
+		//cpf.value = '';
 
 		alert(verifica.message);
 		console.log(verifica.message);
